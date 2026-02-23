@@ -121,7 +121,7 @@ If you find this code or our paper useful in your research, please consider citi
 
 ```bibtex
 @article{shan2026lightweight,
-  title={Lightweight Model with Gradient Distillation for Endometrial Carcinoma Screening: Trained on Augmented MRI-to-Ultrasound Images Synthesized by Structure-Guided Cycle-Consistent Adversarial Network},
+  title={Efficient endometrial carcinoma screening via cross-modal synthesis and gradient distillation},
   author={Shan, Dongjing and Luo, Yamei and Xuan, Jiqing and Huang, Lu and Li, Jin and Yang, Mengchu and Chen, Zeyu and Lv, Fajin and Tang, Yong and Zhang, Chunxiang},
   journal={arXiv},
   year={2026}
